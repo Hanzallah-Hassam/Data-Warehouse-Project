@@ -1,5 +1,5 @@
 
-# E-commerce Data Engineering Project
+# E-commerce Data Warehouse Project
 ![image](https://github.com/user-attachments/assets/219d8dce-69a8-458a-ab40-8b3eed0eefd6)
 
 ![Screenshot 2024-10-01 233653](https://github.com/user-attachments/assets/02681a7d-4c7b-444c-8c9c-160c99a34ba0)
